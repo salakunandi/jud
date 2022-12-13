@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap:http://hackdld.judging.lafrenchtech.com/sitemap.xml
